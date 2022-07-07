@@ -7,6 +7,7 @@ import WishList from "./pages/WishList";
 import Checkout from "./pages/Checkout";
 import NotFound from "./pages/NotFound";
 import Layout from "./components/Layout";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (

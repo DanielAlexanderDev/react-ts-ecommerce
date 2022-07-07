@@ -1,5 +1,9 @@
 const Footer = () => {
-  return <footer>Created with heart by Daniel Alexander</footer>;
+  return (
+    <footer className="text-center my-3">
+      Created with heart by Daniel Alexander
+    </footer>
+  );
 };
 
 export default Footer;
